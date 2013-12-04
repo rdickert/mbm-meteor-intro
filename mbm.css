@@ -1,0 +1,7 @@
+.selected {
+  background-color: #ddd;
+}
+
+tr:hover{
+  cursor: pointer;
+}
